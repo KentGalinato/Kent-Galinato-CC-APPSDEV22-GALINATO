@@ -1,0 +1,14 @@
+E:\APPSDEV22\Week3DataLab\bin\Debug\net10.0\Week3DataLab.exe
+E:\APPSDEV22\Week3DataLab\bin\Debug\net10.0\Week3DataLab.deps.json
+E:\APPSDEV22\Week3DataLab\bin\Debug\net10.0\Week3DataLab.runtimeconfig.json
+E:\APPSDEV22\Week3DataLab\bin\Debug\net10.0\Week3DataLab.dll
+E:\APPSDEV22\Week3DataLab\bin\Debug\net10.0\Week3DataLab.pdb
+E:\APPSDEV22\Week3DataLab\obj\Debug\net10.0\Week3DataLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\APPSDEV22\Week3DataLab\obj\Debug\net10.0\Week3DataLab.AssemblyInfoInputs.cache
+E:\APPSDEV22\Week3DataLab\obj\Debug\net10.0\Week3DataLab.AssemblyInfo.cs
+E:\APPSDEV22\Week3DataLab\obj\Debug\net10.0\Week3DataLab.csproj.CoreCompileInputs.cache
+E:\APPSDEV22\Week3DataLab\obj\Debug\net10.0\Week3DataLab.dll
+E:\APPSDEV22\Week3DataLab\obj\Debug\net10.0\refint\Week3DataLab.dll
+E:\APPSDEV22\Week3DataLab\obj\Debug\net10.0\Week3DataLab.pdb
+E:\APPSDEV22\Week3DataLab\obj\Debug\net10.0\Week3DataLab.genruntimeconfig.cache
+E:\APPSDEV22\Week3DataLab\obj\Debug\net10.0\ref\Week3DataLab.dll
